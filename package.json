@@ -1,0 +1,22 @@
+{
+  "name": "toy_robot",
+  "version": "1.0.0",
+  "description": "[![Code Climate](https://codeclimate.com/github/RafaelChefe/toy_robot/badges/gpa.svg)](https://codeclimate.com/github/RafaelChefe/toy_robot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borshak/toy_robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borshak/toy_robot/issues"
+  },
+  "homepage": "https://github.com/borshak/toy_robot#readme",
+  "dependencies": {
+    "jest": "^21.1.0"
+  }
+}
